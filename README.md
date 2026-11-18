@@ -28,7 +28,9 @@ Seja muito bem-vindo(a) ao meu repositório central de evolução profissional! 
 [![Ver Demo Online](https://img.shields.io/badge/Ver_Projeto_Online-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://wepark-estacionamento.vercel.app)
 
 #### 📸 Demonstração da Interface (Guarita)
-![Guarita WePark](https://github.com/user-attachments/assets/5a375bf4-2934-479b-885f-8cb87abc6017)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5a375bf4-2934-479b-885f-8cb87abc6017" width="800" alt="Guarita WePark" />
+</div>
 
 * **Atuação:** Engenharia de Requisitos (12 RFs e 5 RNFs), diagramação UML de Casos de Uso (UC01 Entrada / UC02 Saída) e elaboração da Matriz de Testes (QA) com 60 casos planejados cobrindo 25 itens de rastreabilidade.
 * **Destaques Técnicos:** Validação em tempo real de placas (padrão Mercosul e antigo), auditoria financeira por operador, emissão de tickets térmicos/PDF e persistência em banco de dados em nuvem.
