@@ -29,7 +29,7 @@ Seja muito bem-vindo(a) ao meu repositório central de evolução profissional! 
 
 #### 📸 Demonstração da Interface (Guarita)
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/5a375bf4-2934-479b-885f-8cb87abc6017" width="800" alt="Guarita WePark" />
+  <img src="https://github.com/user-attachments/assets/60d878d6-3def-4272-967c-11cd11d20e51" width="800" alt="Guarita WePark" />
 </div>
 
 * **Atuação:** Engenharia de Requisitos (12 RFs e 5 RNFs), diagramação UML de Casos de Uso (UC01 Entrada / UC02 Saída) e elaboração da Matriz de Testes (QA) com 60 casos planejados cobrindo 25 itens de rastreabilidade.
